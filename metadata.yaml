@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
     - http://en.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30789#Dictionnaire-raisonn--de-l-architecture-fran-aise-du-XIe-au-XVIe-si-cle--9-9-
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2009-12-28'
 gutenberg_type: Text
